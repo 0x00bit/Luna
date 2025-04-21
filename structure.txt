@@ -1,0 +1,11 @@
+project/
+├── main.lua
+├── conf.lua               -- (opcional) configurações da janela
+├── lib/
+│   ├── utils.lua          -- funções como desenhar barra de vida
+│   ├── animations.lua     -- animações ou helpers gráficos
+│   ├── card.lua           -- módulo para lógica das cartas
+│   └── monster.lua        -- módulo para lógica de monstros/stands
+├── assets/
+│   ├── images/
+│   ├── sounds/
